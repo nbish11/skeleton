@@ -5,7 +5,7 @@ namespace nbish11\Skeleton;
 class Example
 {
     /**
-     * Create a new Skeleton Instance
+     * Create a new Example Instance
      */
     public function __construct()
     {
