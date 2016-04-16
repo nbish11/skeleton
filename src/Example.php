@@ -2,7 +2,7 @@
 
 namespace nbish11\Skeleton;
 
-class SkeletonClass
+class Example
 {
     /**
      * Create a new Skeleton Instance

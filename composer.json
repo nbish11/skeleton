@@ -26,12 +26,12 @@
     },
     "autoload": {
         "psr-4": {
-            "nbish11\\skeleton\\": "src"
+            "nbish11\\Skeleton\\": "src"
         }
     },
     "autoload-dev": {
         "psr-4": {
-            "nbish11\\skeleton\\": "tests"
+            "nbish11\\Skeleton\\": "tests"
         }
     },
     "scripts": {
