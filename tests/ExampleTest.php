@@ -1,6 +1,6 @@
 <?php
 
-namespace League\Skeleton;
+namespace nbish11\Skeleton;
 
 class ExampleTest extends \PHPUnit_Framework_TestCase
 {

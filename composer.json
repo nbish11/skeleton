@@ -1,18 +1,18 @@
 {
-    "name": ":vendor/:package_name",
+    "name": "nbish11/skeleton",
     "type": "library",
-    "description": ":package_description",
+    "description": "Boilerplate code for developing a PHP application/library.",
     "keywords": [
-        ":vendor",
-        ":package_name"
+        "nbish11",
+        "skeleton"
     ],
-    "homepage": "https://github.com/:vendor/:package_name",
+    "homepage": "https://github.com/nbish11/skeleton",
     "license": "MIT",
     "authors": [
         {
-            "name": ":author_name",
-            "email": ":author_email",
-            "homepage": ":author_website",
+            "name": "Nathan Bishop",
+            "email": "nbish11@hotmail.com",
+            "homepage": "https://github.com/nbish11",
             "role": "Developer"
         }
     ],
@@ -26,12 +26,12 @@
     },
     "autoload": {
         "psr-4": {
-            ":vendor\\:package_name\\": "src"
+            "nbish11\\skeleton\\": "src"
         }
     },
     "autoload-dev": {
         "psr-4": {
-            ":vendor\\:package_name\\": "tests"
+            "nbish11\\skeleton\\": "tests"
         }
     },
     "scripts": {
