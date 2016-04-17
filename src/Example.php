@@ -2,6 +2,9 @@
 
 namespace nbish11\Skeleton;
 
+/**
+ * @author Nathan Bishop
+ */
 class Example
 {
     /**
