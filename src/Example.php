@@ -4,6 +4,7 @@ namespace nbish11\Skeleton;
 
 /**
  * @copyright 2016 Nathan Bishop
+ * @license MIT
  */
 class Example
 {
