@@ -3,7 +3,7 @@
 namespace nbish11\Skeleton;
 
 /**
- * @author Nathan Bishop
+ * @copyright 2016 Nathan Bishop
  */
 class Example
 {
